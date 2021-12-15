@@ -1,28 +1,31 @@
 # about-me 
-Name: Wilson Li
+## Name: Wilson Li
 
-Email: WilsonL7870@hstat.org
+### Email:
+WilsonL7870@hstat.org
 
-School: High School of Telecommunication Arts and Technology
+### School: 
+High School of Telecommunication Arts and Technology
 
-Bio: I was borned in New york and I'm chinese. I really enjoy time in school and I'm a very nice person.
+### Bio:
+I was borned in New york and I'm chinese. I really enjoy time in school and I'm a very nice person.
 
-Schedule
+### Schedule
 
-period 1: Global History
+#### period 1: Global History
 
-period 2: Chemistry
+#### period 2: Chemistry
 
-period 3: Algebra
+#### period 3: Algebra
 
-period 4: Software Engineering
+#### period 4: Software Engineering
 
-period 5: English
+#### period 5: English
 
-period 6: Lunch
+#### period 6: Lunch
 
-period 7: Spanish
+#### period 7: Spanish
 
-period 8: Big History Project
+#### period 8: Big History Project
 
-period 9: Yoga
+#### period 9: Yoga
