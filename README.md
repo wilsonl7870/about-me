@@ -2,13 +2,13 @@
 ## Name: Wilson Li
 
 ### Email:
-WilsonL7870@hstat.org
+**_WilsonL7870@hstat.org_**
 
 ### School: 
-High School of Telecommunication Arts and Technology
+**High School of Telecommunication Arts and Technology**
 
 ### Bio:
-I was borned in New york and I'm chinese. I really enjoy time in school and I'm a very nice person.
+_I was borned in New york and I'm chinese. I really enjoy time in school and I'm a very nice person._
 
 ### Schedule
 
